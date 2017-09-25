@@ -1,0 +1,13 @@
+#time {
+    font-size: 10px;
+    color: darkgray;
+}
+
+#text {
+    font-size: 18px;
+}
+
+.panel-heading {
+    font-size: 30px;
+    text-align: center;
+}
