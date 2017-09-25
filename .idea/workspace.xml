@@ -16,17 +16,17 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="38" column="83" lean-forward="true" selection-start-line="38" selection-start-column="83" selection-end-line="38" selection-end-column="83" />
+            <state relative-caret-position="336">
+              <caret line="29" column="108" lean-forward="true" selection-start-line="29" selection-start-column="108" selection-end-line="29" selection-end-column="108" />
               <folding>
-                <marker date="1506348394525" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
-                <marker date="1506348394525" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
-                <marker date="1506348394525" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
-                <marker date="1506348394525" expanded="true" signature="1376:1435" ph="..." />
-                <marker date="1506348394525" expanded="true" signature="1653:2223" ph="..." />
-                <marker date="1506348394525" expanded="true" signature="1736:2196" ph="..." />
-                <marker date="1506348394525" expanded="true" signature="1789:1972" ph="..." />
-                <marker date="1506348394525" expanded="true" signature="2025:2163" ph="..." />
+                <marker date="1506349776501" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
+                <marker date="1506349776501" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
+                <marker date="1506349776501" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
+                <marker date="1506349776501" expanded="true" signature="1376:1435" ph="..." />
+                <marker date="1506349776501" expanded="true" signature="1641:2211" ph="..." />
+                <marker date="1506349776501" expanded="true" signature="1724:2184" ph="..." />
+                <marker date="1506349776501" expanded="true" signature="1777:1960" ph="..." />
+                <marker date="1506349776501" expanded="true" signature="2013:2151" ph="..." />
               </folding>
             </state>
           </provider>
@@ -224,15 +224,15 @@
       <workItem from="1506091103096" duration="6835000" />
       <workItem from="1506263398604" duration="697000" />
       <workItem from="1506323814337" duration="7804000" />
-      <workItem from="1506346416246" duration="2096000" />
+      <workItem from="1506346416246" duration="3971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17432000" />
+    <option name="totallyTimeSpent" value="19307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25804722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -270,14 +270,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1506348394525" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
-            <marker date="1506348394525" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
-            <marker date="1506348394525" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
-            <marker date="1506348394525" expanded="true" signature="1376:1435" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1653:2223" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1736:2196" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1789:1972" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="2025:2163" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
+            <marker date="1506349776501" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
+            <marker date="1506349776501" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
+            <marker date="1506349776501" expanded="true" signature="1376:1435" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1641:2211" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1724:2184" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1777:1960" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="2013:2151" ph="..." />
           </folding>
         </state>
       </provider>
@@ -303,14 +303,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1506348394525" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
-            <marker date="1506348394525" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
-            <marker date="1506348394525" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
-            <marker date="1506348394525" expanded="true" signature="1376:1435" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1653:2223" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1736:2196" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1789:1972" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="2025:2163" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
+            <marker date="1506349776501" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
+            <marker date="1506349776501" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
+            <marker date="1506349776501" expanded="true" signature="1376:1435" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1641:2211" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1724:2184" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1777:1960" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="2013:2151" ph="..." />
           </folding>
         </state>
       </provider>
@@ -328,14 +328,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1506348394525" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
-            <marker date="1506348394525" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
-            <marker date="1506348394525" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
-            <marker date="1506348394525" expanded="true" signature="1376:1435" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1653:2223" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1736:2196" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1789:1972" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="2025:2163" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
+            <marker date="1506349776501" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
+            <marker date="1506349776501" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
+            <marker date="1506349776501" expanded="true" signature="1376:1435" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1641:2211" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1724:2184" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1777:1960" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="2013:2151" ph="..." />
           </folding>
         </state>
       </provider>
@@ -369,17 +369,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="38" column="83" lean-forward="true" selection-start-line="38" selection-start-column="83" selection-end-line="38" selection-end-column="83" />
+        <state relative-caret-position="336">
+          <caret line="29" column="108" lean-forward="true" selection-start-line="29" selection-start-column="108" selection-end-line="29" selection-end-column="108" />
           <folding>
-            <marker date="1506348394525" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
-            <marker date="1506348394525" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
-            <marker date="1506348394525" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
-            <marker date="1506348394525" expanded="true" signature="1376:1435" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1653:2223" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1736:2196" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="1789:1972" ph="..." />
-            <marker date="1506348394525" expanded="true" signature="2025:2163" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="970:1029" ph="INSERT INTO chat... " />
+            <marker date="1506349776501" expanded="true" signature="970:1044" ph="INSERT INTO chat... " />
+            <marker date="1506349776501" expanded="true" signature="1170:1188" ph="SELECT * FRO... chat" />
+            <marker date="1506349776501" expanded="true" signature="1376:1435" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1641:2211" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1724:2184" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="1777:1960" ph="..." />
+            <marker date="1506349776501" expanded="true" signature="2013:2151" ph="..." />
           </folding>
         </state>
       </provider>

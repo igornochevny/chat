@@ -36,7 +36,7 @@ require_once 'config.php';
 
                     while ($record = mysqli_fetch_assoc($pasteAll)){
                         echo '<p id = "text">'.$record['message'].'</p>';
-                        echo  '<p id = "time">'.date("Y-m-d H:i:s", time()).'</p>';
+                        echo  '<p id = "time">'.$record['time'].'</p>';
                         echo '<hr>';
                     }
 
