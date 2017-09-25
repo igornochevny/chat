@@ -27,7 +27,7 @@ require_once 'config.php';
                     <?php
                     $text = $_POST['message'];
                     if(isset($_POST['send']) && !empty($text)) {
-                        $add = "INSERT INTO chat (id, message, time) VALUES (NULL, '$text', CURRENT_TIME)";
+                        $add = "INSERT INTO chat (id, message, time) VALUES (NULL, '$text', CURRENT_TIME )";
                         $addDb = mysqli_query($connection, $add);
                     }
 
@@ -36,7 +36,7 @@ require_once 'config.php';
 
                     while ($record = mysqli_fetch_assoc($pasteAll)){
                         echo '<p id = "text">'.$record['message'].'</p>';
-                        echo  '<p id = "time">'.$record['time'].'</p>';
+                        echo  '<p id = "time">'.date("Y-m-d H:i:s", time()).'</p>';
                         echo '<hr>';
                     }
 
